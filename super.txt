@@ -1,0 +1,5 @@
+VM      IP    
+lb01  10.11.12.50
+com1  10.11.12.51
+com2  10.11.12.52
+setup ip address for ethernet enpos0
